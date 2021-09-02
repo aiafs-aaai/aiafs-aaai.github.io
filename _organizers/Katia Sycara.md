@@ -1,14 +1,13 @@
 ---
 # Name of the organizer
-name: Mark Fuge
+name: Katia Sycara
 
 # Link to the organizer's webpage
-webpage: https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge
+webpage: http://www.cs.cmu.edu/~sycara/
 
 # Primary affiliation
-affil: University of Maryland
-
+affil: Carnegie Mellon University
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: mark.jpg
+img: katia.gif
 
 ---
