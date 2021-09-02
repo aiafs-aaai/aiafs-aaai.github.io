@@ -7,18 +7,21 @@ title: Home
 layout: home
 ---
 
-Advances in complex engineering systems such as manufacturing and materials synthesis increasingly seek artificial intelligence/machine learning (AI/ML) solutions to enhance their design, development, and production processes. However, despite increasing interest from various subfields, AI/ML techniques are yet to fulfill their full promise in achieving these advances. Key obstacles include lack of high-quality data, difficulty in embedding complex scientific and engineering knowledge in learning, and the need for high-dimensional design space exploration under constrained budgets.
+An increasing world population, coupled with finite arable land, changing diets, and the growing expense of agricultural inputs, is poised to stretch our agricultural systems to their limits. By the end of this century, the earth’s population is projected to increase by 45% with available arable land decreasing by 20% coupled with changes in what crops these arable lands can best support; this creates the urgent need to enhance agricultural productivity by 70% before 2050. Current rates of progress are insufficient, making it impossible to meet this goal without a technological paradigm shift.
 
-Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core AI/ML, design, manufacturing, scientific computing, and geometric modeling. Our intent is to facilitate new AI/ML advances for core engineering design, simulation, and manufacturing. Outcomes include outlining the main research challenges in this area, cross-pollinating collaborations between AI researchers and domain experts in engineering design and manufacturing, and sketching open problems of common interest. Specific topics for the workshop include (but are not limited to):
+There is increasing evidence that enabling AI technology has the potential to aid in the aforementioned paradigm shift. Recent progress in AI can help transform agriculture by developing approaches that can uncover, model and predict complex relationships between environment, management, and genotype, enable future planning and optimize management processes, and mitigate undesirable emergent behavior.  This AAAI workshop aims to bring together researchers from core AI/ML, robotics, sensing, cyber physical systems, agriculture engineering, plant sciences, genetics and bioinformatics communities to facilitate the increasingly synergistic intersection of AI/ML with agriculture and food systems. Outcomes include outlining the main research challenges in this area, potential future directions, and cross-pollination between AI researchers and domain experts in agriculture and food systems. 
 
-- New theory and fundamentals of AI-aided design and manufacturing 
-- Novel AI-based techniques to improve modeling of engineering systems 
-- Integration of AI-based approaches with engineering prototyping and manufacturing 
-- Novel methods to learn from scarce/sparse, or heterogenous, or multimodal data 
-- Novel ML methods in the computational material and physical sciences 
-- Novel ML-accelerated optimization for conceptual/detailed system design 
-- Novel AI-enabled generative models for system design and manufacturing 
-- ML-guided rare event modeling and system uncertainty quantification 
-- Development of software, libraries, or benchmark datasets  
-- Identification of key challenges and opportunities for future research  
+Specific topics of interest for the workshop include (but are not limited to):
+-Foundational and translational AI activities related to plant breeding
+-Precision agriculture and farm management
+-Biotic/ABiotic stress prediction, 
+-Yield prediction, 
+-Plant growth and development models, 
+-Remote sensing, 
+-Agricultural robotics, 
+-Privacy-preserving data analysis
+-Multimodal data fusion
+-High-throughput field phenotyping. 
+-(Bio)physics aware and hybrid AI modeling techniques
+
 
