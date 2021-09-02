@@ -1,14 +1,13 @@
 ---
 # Name of the organizer
-name: Soumalya Sarkar
+name: Soumik Sarkar
 
 # Link to the organizer's webpage
-webpage: https://www.linkedin.com/in/soumalya-sarkar-12b90a3b/
-
+webpage: https://web.me.iastate.edu/soumiks/
 # Primary affiliation
-affil: Raytheon Technologies
+affil: Iowa State University
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: soumalya.jpg
+img: soumik.png
 
 ---
