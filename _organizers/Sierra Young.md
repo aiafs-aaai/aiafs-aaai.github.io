@@ -1,14 +1,14 @@
 ---
 # Name of the organizer
-name: Olga Wodo
+name: Sierra Young
 
 # Link to the organizer's webpage
-webpage: https://www.acsu.buffalo.edu/~olgawodo/
+webpage: https://thedaisylab.com/
 
 # Primary affiliation
-affil: University of Buffalo
+affil: North Carolina State University
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: olga.jpg
+img: sierra.jpg
 
 ---
