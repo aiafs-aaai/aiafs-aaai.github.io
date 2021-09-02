@@ -1,14 +1,14 @@
 ---
 # Name of the organizer
-name: Payel Das
+name: Alina Zare
 
 # Link to the organizer's webpage
-webpage: https://researcher.watson.ibm.com/researcher/view.php?person=us-daspa
+webpage: hthttps://faculty.eng.ufl.edu/machine-learning/
 
 # Primary affiliation
-affil: IBM Research
+affil: University of Florida
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: payel.jpg
+img: alina.jpg
 
 ---
