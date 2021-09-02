@@ -11,17 +11,6 @@ An increasing world population, coupled with finite arable land, changing diets,
 
 There is increasing evidence that enabling AI technology has the potential to aid in the aforementioned paradigm shift. Recent progress in AI can help transform agriculture by developing approaches that can uncover, model and predict complex relationships between environment, management, and genotype, enable future planning and optimize management processes, and mitigate undesirable emergent behavior.  This AAAI workshop aims to bring together researchers from core AI/ML, robotics, sensing, cyber physical systems, agriculture engineering, plant sciences, genetics and bioinformatics communities to facilitate the increasingly synergistic intersection of AI/ML with agriculture and food systems. Outcomes include outlining the main research challenges in this area, potential future directions, and cross-pollination between AI researchers and domain experts in agriculture and food systems. 
 
-Specific topics of interest for the workshop include (but are not limited to):
-- Foundational and translational AI activities related to plant breeding
-- Precision agriculture and farm management
-- Biotic/ABiotic stress prediction, 
-- Yield prediction, 
-- Plant growth and development models, 
-- Remote sensing, 
-- Agricultural robotics, 
-- Privacy-preserving data analysis
-- Multimodal data fusion
-- High-throughput field phenotyping. 
-- (Bio)physics aware and hybrid AI modeling techniques
+
 
 
