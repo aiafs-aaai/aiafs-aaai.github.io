@@ -1,7 +1,6 @@
 ---
 # Name of the organizer
-name: Chinmay Hegde
-
+name: George Kantor
 # Link to the organizer's webpage
 webpage: https://www.ri.cmu.edu/ri-faculty/george-a-kantor/
 # Primary affiliation
