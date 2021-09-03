@@ -4,7 +4,7 @@ title: Call for papers
 permalink: /callforpapers/
 ---
 ## Topics
-Specific topics of interest for the workshop include (but are not limited to):
+We invite paper submission on the following (and related) topics:
 - Foundational and translational AI activities related to plant breeding
 - Precision agriculture and farm management
 - Biotic/Abiotic stress prediction, 
