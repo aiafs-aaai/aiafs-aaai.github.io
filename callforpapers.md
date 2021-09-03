@@ -7,7 +7,7 @@ permalink: /callforpapers/
 Specific topics of interest for the workshop include (but are not limited to):
 - Foundational and translational AI activities related to plant breeding
 - Precision agriculture and farm management
-- Biotic/ABiotic stress prediction, 
+- Biotic/Abiotic stress prediction, 
 - Yield prediction, 
 - Plant growth and development models, 
 - Remote sensing, 
