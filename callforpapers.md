@@ -3,7 +3,7 @@ layout: page
 title: Call for papers
 permalink: /callforpapers/
 ---
-
+## Topics
 Specific topics of interest for the workshop include (but are not limited to):
 - Foundational and translational AI activities related to plant breeding
 - Precision agriculture and farm management
@@ -16,3 +16,12 @@ Specific topics of interest for the workshop include (but are not limited to):
 - Multimodal data fusion
 - High-throughput field phenotyping. 
 - (Bio)physics aware and hybrid AI modeling techniques
+- 
+## Format
+The workshop will be a half-day meeting comprising several invited talks from distinguished researchers in the field, spotlight lightning talks and a poster session where contributing paper presenters can discuss their work, and a concluding panel discussion focusing on future directions. Attendance is open to all registered participants.
+
+## Submissions
+Submitted technical papers can be up to 4 pages long (excluding references and appendices). Position papers are welcome. All papers must be submitted in PDF format using the [AAAI-22 author kit](https://aaai.org/Conferences/AAAI-22/submission-guidelines/). Papers will be peer-reviewed and selected for spotlight and/or poster presentation.   
+
+## Submission website
+Submissions can be done [here](https://openreview.net/group?id=AAAI.org/2022/Workshop/AIAFS).
