@@ -3,8 +3,7 @@
 name: Koushik Nagasubramanian
 
 # Link to the organizer's webpage
-webpage: linkedin.com/in/koushik-nagasubramanian-781676a3
-
+webpage: https://www.linkedin.com/in/koushik-nagasubramanian-781676a3/
 # Primary affiliation
 affil: Iowa State University
 
