@@ -21,7 +21,6 @@
 title: "AIAFS | AAAI 2022"
 email: baskarg@iastate.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  AI for Agriculture and Food Systems (AIAFS) at AAAI 2022.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
