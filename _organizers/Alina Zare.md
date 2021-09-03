@@ -3,7 +3,7 @@
 name: Alina Zare
 
 # Link to the organizer's webpage
-webpage: hthttps://faculty.eng.ufl.edu/machine-learning/
+webpage: https://faculty.eng.ufl.edu/machine-learning/
 
 # Primary affiliation
 affil: University of Florida
