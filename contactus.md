@@ -7,7 +7,7 @@ permalink: /contactus/
 
 1. Will there be official proceedings for accepted papers?
 
-We will invite the top papers to submit an extended version to a special issue in Plant Phenomics, A Science Partner Journal in 2022.
+	We will invite the top papers to submit an extended version to a special issue in Plant Phenomics, A Science Partner Journal in 2022.
 
 2. Do paper submissions need to be anonymized?
 
