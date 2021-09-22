@@ -5,21 +5,21 @@ permalink: /callforpapers/
 ---
 ## Topics
 Specific topics of interest for the workshop include (but are not limited to) foundational and translational AI activities related to: 
-•	Plant breeding
-•	Precision agriculture and farm management
-•	Biotic/Abiotic stress prediction
-•	Yield prediction
-•	Agriculture data curation
-•	Annotation efficient learning
-•	Plant growth and development models
-•	Remote sensing
-•	Agricultural robotics
-•	Privacy-preserving data analysis
-•	Human-in-the-loop AI
-•	Multimodal data fusion
-•	High-throughput field phenotyping
-•	(Bio)physics aware hybrid AI modeling
-•	Development of open-source software, libraries, annotation tools, or benchmark datasets
+- Plant breeding
+- Precision agriculture and farm management
+- Biotic/Abiotic stress prediction
+- Yield prediction
+- Agriculture data curation
+- Annotation efficient learning
+- Plant growth and development models
+- Remote sensing
+- Agricultural robotics
+- Privacy-preserving data analysis
+- Human-in-the-loop AI
+- Multimodal data fusion
+- High-throughput field phenotyping
+- (Bio)physics aware hybrid AI modeling
+- Development of open-source software, libraries, annotation tools, or benchmark datasets
 
 ## Format
 The workshop will be a one day meeting comprising invited talks from researchers in the field, spotlight lightning talks and a poster session where contributing paper presenters can discuss their work. Attendance is open to all registered participants.
