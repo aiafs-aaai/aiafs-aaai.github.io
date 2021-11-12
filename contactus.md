@@ -25,4 +25,4 @@ permalink: /contactus/
 
 	Yes, any preliminary works or AAAI main conference paper can be submitted.
 
-For other questions, drop us an email [here](mailto: baskarg@iastate.edu)
+For other questions, drop us an email [here](mailto:baskarg@iastate.edu)
