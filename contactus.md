@@ -19,7 +19,7 @@ permalink: /contactus/
 
 4. What is the exact deadline for submitting papers?
 
-	The deadline is **November 12 2021 11:59PM UTC**
+	The deadline is **November 19 2021, AoE**
 
 5. Can I submit papers that is accepted in AAAI main conference or under review elsewhere?
 
