@@ -3,7 +3,7 @@
 sequence_id: 0
 
 # Paper title
-title: SoilMoistureMapper: a GNSS-R approach for soil moisture retrieval on UAV (Lightning)
+title: "SoilMoistureMapper: a GNSS-R approach for soil moisture retrieval on UAV (Lightning)"
 
 # Paper authors
 authors: Volkan Yusuf Senyurek, Mehedi Farhad, Ali Cafer Gurbuz, Mehmet Kurum, Robert Moorhead
