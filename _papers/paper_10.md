@@ -1,9 +1,9 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 10
 
 # Paper title
-title:Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants (Lightning)
+title: Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants (Lightning)
 
 # Paper authors
 authors: Mohamad Qadri, Harry Freeman, Franz Eric Schneider, George Kantor
