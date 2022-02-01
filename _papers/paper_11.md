@@ -1,8 +1,9 @@
+---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 11
 
 # Paper title
-title:Privacy-Preserving Deep Models for Plant Stress Phenotyping (Lightning)
+title: "Privacy-Preserving Deep Models for Plant Stress Phenotyping (Lightning)"
 
 # Paper authors
 authors: Minsu Cho, Koushik Nagasubramanian, Asheesh K Singh, Arti Singh, Baskar Ganapathysubramanian, Soumik Sarkar, Chinmay Hegde
