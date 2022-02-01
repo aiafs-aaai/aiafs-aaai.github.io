@@ -29,6 +29,5 @@ Submitted technical papers can be up to 4 pages long (excluding references and a
 
 Submissions are due by: **November 19, 2021, AoE **
 
-
 ## Submission website
 Submissions can be done [here](https://openreview.net/group?id=AAAI.org/2022/Workshop/AIAFS).
