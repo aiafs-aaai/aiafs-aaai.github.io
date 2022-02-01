@@ -3,7 +3,7 @@
 sequence_id: 3
 
 # Paper title
-title: XPM: An Explainable-by-Design Pattern-Based Estrus Detection Approach to Improve Resource Use in Dairy Farms (Oral)
+title: "XPM: An Explainable-by-Design Pattern-Based Estrus Detection Approach to Improve Resource Use in Dairy Farms (Oral)"
 
 # Paper authors
 authors: Issei Harada, Kevin Fauvel, Thomas Guyet, Veronique Masson, Alexandre Termier, Philippe Faverdin
