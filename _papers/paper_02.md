@@ -1,3 +1,4 @@
+---
 # Determines which paper appears first (lowest number (0) appears first)
 sequence_id: 2
 
@@ -14,5 +15,5 @@ authors: Gabriel Tseng, Hannah Kerner, David Rolnick
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-#img: 2
+img: 2
 ---
