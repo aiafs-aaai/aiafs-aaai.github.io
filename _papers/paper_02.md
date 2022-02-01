@@ -3,7 +3,7 @@
 sequence_id: 0
 
 # Paper title
-title: TIML\ : Task-Informed Meta-Learning for crop type mapping (Oral)
+title: TIML \ : Task-Informed Meta-Learning for crop type mapping (Oral)
 
 # Paper authors
 authors: Yuchi Ma, Zhou Zhang
