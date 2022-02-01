@@ -3,7 +3,7 @@
 sequence_id: 15
 
 # Paper title
-title: GrowSpace: Learning How to Shape Plants (Lightning)
+title: "GrowSpace: Learning How to Shape Plants (Lightning)"
 
 # Paper authors
 authors: Yasmeen Hitti, Ionelia Buzatu, Manuel Del Verme, Mark Lefsrud, Florian Golemo, Audrey Durand
