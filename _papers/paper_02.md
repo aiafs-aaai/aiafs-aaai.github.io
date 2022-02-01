@@ -1,12 +1,12 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 2
+sequence_id: 0
 
 # Paper title
-title: TIML: Task-Informed Meta-Learning for crop type mapping (Oral)
+title: TIML\: Task-Informed Meta-Learning for crop type mapping (Oral)
 
 # Paper authors
-authors: Gabriel Tseng, Hannah Kerner, David Rolnick
+authors: Yuchi Ma, Zhou Zhang
 
 # Author affiliations
 # affil: TBD
@@ -15,5 +15,5 @@ authors: Gabriel Tseng, Hannah Kerner, David Rolnick
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 
+img: 1
 ---
