@@ -3,10 +3,10 @@
 sequence_id: 16
 
 # Paper title
-title: "GrowSpace: Learning How to Shape Plants (Lightning)"
+title: "Towards Autonomous Berry Harvesting using Visual Servoing of Soft Continuum Arm(Lightning)"
 
 # Paper authors
-authors: Yasmeen Hitti, Ionelia Buzatu, Manuel Del Verme, Mark Lefsrud, Florian Golemo, Audrey Durand
+authors: Shivani Kamtikar, Samhita Marri, Benjamin Thomas Walt, Naveen Kumar Uppalapati, Girish Krishnan, Girish Chowdhary
 
 # Author affiliations
 # affil: TBD
