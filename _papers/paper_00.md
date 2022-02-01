@@ -3,7 +3,7 @@
 sequence_id: 0
 
 # Paper title
-title: Multi-source Unsupervised Domain Adaptation on Corn Yield Prediction
+title: Multi-source Unsupervised Domain Adaptation on Corn Yield Prediction (Oral)
 
 # Paper authors
 authors: Yuchi Ma, Zhou Zhang
