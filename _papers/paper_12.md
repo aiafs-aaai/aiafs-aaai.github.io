@@ -3,7 +3,7 @@
 sequence_id: 12
 
 # Paper title
-title: CLAWS: Contrastive Learning with hard Attention and Weak Supervision (Lightning)
+title: "CLAWS: Contrastive Learning with hard Attention and Weak Supervision (Lightning)"
 
 # Paper authors
 authors: Jansel Herrera, Ramakrishnan Sundareswaran, John Just, Matthew Darr, Ali Jannesari
