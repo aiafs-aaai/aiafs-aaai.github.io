@@ -3,17 +3,17 @@
 sequence_id: 0
 
 # Paper title
-title: TBD
+title: Multi-source Unsupervised Domain Adaptation on Corn Yield Prediction
 
 # Paper authors
-authors: TBD
+authors: Yuchi Ma, Zhou Zhang
 
 # Author affiliations
-affil: TBD
+# affil: TBD
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: TBD
+# img: TBD
 ---
