@@ -1,6 +1,6 @@
 ---
 # Determines which paper appears first (lowest number (0) appears first)
-sequence_id: 7
+sequence_id: 6
 
 # Paper title
 title: Validation of Prerequisites for Correct Performance Evaluation of Image-based Plant Disease Diagnosis using Reliable 221K Images Collected from Actual Fields (Oral)
