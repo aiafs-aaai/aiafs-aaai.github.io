@@ -6,7 +6,7 @@ sequence_id: 22
 title: "Robotic detection of leaf angle and grasp point with low-cost sensors (Poster)"
 
 # Paper authors
-authors: Robotic detection of leaf angle and grasp point with low-cost sensors
+authors: Junzhe Wu, Wangqi Ma, Girish Chowdhary
 
 # Author affiliations
 # affil: TBD
