@@ -15,5 +15,5 @@ authors: Minsu Cho, Koushik Nagasubramanian, Asheesh K Singh, Arti Singh, Baskar
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 1
+img: 12
 ---
