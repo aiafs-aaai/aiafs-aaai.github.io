@@ -15,5 +15,5 @@ authors: Issei Harada, Kevin Fauvel, Thomas Guyet, Veronique Masson, Alexandre T
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 
+img: 4
 ---
