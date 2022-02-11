@@ -15,5 +15,5 @@ authors: Hadhami Garbouge, Salma Samiei, Pejman Rasti, David Marc ROUSSEAU
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 1
+img: 9
 ---
