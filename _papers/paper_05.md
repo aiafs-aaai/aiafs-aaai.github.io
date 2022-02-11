@@ -15,5 +15,5 @@ authors: Michael McGuire, Thomas Aref, Arif Syraj, Shubham Shukla, Akshay Kumar,
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 1
+img: 6
 ---
