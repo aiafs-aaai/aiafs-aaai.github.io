@@ -15,5 +15,5 @@ authors: Weihuang Xu, Guohao Yu, Yiming Cui, Romain Gloaguen, Alina Zare, Jason 
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 1
+img: 8
 ---
