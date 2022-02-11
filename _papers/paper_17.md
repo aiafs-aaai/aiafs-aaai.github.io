@@ -15,5 +15,5 @@ authors: Dominik Bauer, Cornelia Bauer, Arjun Lakshmipathy, Nancy Pollard
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 1
+img: 18
 ---
