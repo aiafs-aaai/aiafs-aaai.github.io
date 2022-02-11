@@ -15,5 +15,5 @@ authors: Arun Narenthiran Sivakumar, Sahil Modi, Mateus Valverde Gasparino, Che 
 pdf: TBD
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 1
+img: 27
 ---
