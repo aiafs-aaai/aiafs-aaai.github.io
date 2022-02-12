@@ -6,7 +6,7 @@ sequence_id: 0
 speaker: Organizers
 
 # Title of the event
-title: Intro
+title: Introduction
 
 # Time of the event
 time: 0900 - 0910
