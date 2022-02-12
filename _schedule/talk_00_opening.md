@@ -9,5 +9,5 @@ speaker: Organizers
 title: Introduction
 
 # Time of the event
-time: 0900 - 0910
+time: "09:00 - 09:10"
 ---
