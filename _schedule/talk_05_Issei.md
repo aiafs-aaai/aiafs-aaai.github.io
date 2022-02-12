@@ -6,7 +6,7 @@ sequence_id: 0
 speaker: Issei Harada
 
 # Title of the event
-title: Contributed talk 1
+title: Contributed talk 5
 
 # Time of the event
 time: "11:00 - 11:15"
