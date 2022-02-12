@@ -4,6 +4,6 @@ speaker: Melba Crawford
 <!-- webpage: https://jane.doe -->
 affil: Purdue University
 affil_link: https://ag.purdue.edu/agry/directory/Pages/melbac.aspx
-title: Talk by Melba Crawford
+title: Plenary 1 (40 + 10 mins Q&A)
 time: "09:10 - 09:45"
 ---
