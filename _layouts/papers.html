@@ -7,7 +7,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
-  <h2> List of accepted papers</h2>
+<!--   <h2> List of accepted papers</h2> -->
   <div class = "post-content">
 	  <table>
 	  	{% for paper in site.papers %}
@@ -40,13 +40,12 @@ layout: default
 		                	<br>
 		                	{{ paper.affil }}
 		                {% endif %}
-<!-- 		                <!-- Link to PDF (if provided) -->
+		                <!-- Link to PDF (if provided) -->
 		                {% if paper.pdf %}
 		                	<br>
-		                	<a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>
-		                {% endif %} -->
-	                	<br>
-	                	<a href="/assets/pdf/papers/{{paper.paper_id}}.pdf" target="_blank">PDF</a>
+<!-- 		                	<a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a> -->
+				        <a href="/assets/pdf/papers/{{paper.paper_id}}.pdf" target="_blank">PDF</a>
+		                {% endif %}
 		            </div>
 		        </td>
 		    </tr>
