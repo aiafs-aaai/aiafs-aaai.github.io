@@ -6,8 +6,8 @@ sequence_id: 9
 speaker: Contributed speakers
 
 # Title of the event
-title: Lightning Talks 1 (5 mins*6 + Q&A)
+title: Lightning Talks 1 (5 mins*6 + 10 mins Q&A)
 
 # Time of the event
-time: "11:30 - 12:00"
+time: "11:30 - 12:10"
 ---
