@@ -6,10 +6,10 @@ sequence_id: 11
 speaker: Gaurav Sukhmate
 
 # Title of the event
-title: Keynote 3
+title: Plenary 2
 
 # Time of the event
-time: "13:30 - 14:30"
+time: "13:40 - 14:30" (40 + 10 mins Q&A)
 
 affil: University of Southern California
 affil_link: https://robotics.usc.edu/~gaurav/
