@@ -6,7 +6,7 @@ sequence_id: 8
 speaker: Gabriel Tseng
 
 # Title of the event
-title: Contributed talk 4
+title: "Contributed talk 4: TIML: Task-Informed Meta-Learning for crop type mapping"
 
 # Time of the event
 time: "11:15 - 11:30"
