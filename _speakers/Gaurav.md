@@ -1,6 +1,6 @@
 ---
 # Name of the speaker
-name: Gaurav Sukhmate
+name: "Sukhmate, Gaurav"
 
 # Link to the speaker's webpage
 webpage: https://robotics.usc.edu/~gaurav/
