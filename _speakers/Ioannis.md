@@ -1,6 +1,6 @@
 ---
 # Name of the speaker
-name: Ioannis Athanasiadis
+name: Athanasiadis, Ioannis 
 
 # Link to the speaker's webpage
 webpage: https://www.athanasiadis.info/
