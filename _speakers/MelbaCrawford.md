@@ -1,6 +1,6 @@
 ---
 # Name of the speaker
-name: Melba Crawford
+name: Crawford, Melba 
 
 # Primary affiliation of the speaker
 affil: Purdue University
