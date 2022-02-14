@@ -6,7 +6,7 @@ sequence_id: 13
 speaker: Moonyoung Lee
 
 # Title of the event
-title: Contributed talk 6
+title: "Contributed talk 6: Contact Classification for Agriculture Manipulation in Cluttered Canopies"
 
 # Time of the event
 time: "14:45 - 15:00"
