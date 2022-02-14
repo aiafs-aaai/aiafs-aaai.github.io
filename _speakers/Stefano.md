@@ -1,6 +1,6 @@
 ---
 # Name of the speaker
-name: Stefano Ermon
+name: Ermon, Stefano
 
 # Link to the speaker's webpage
 webpage: https://cs.stanford.edu/~ermon/website/
