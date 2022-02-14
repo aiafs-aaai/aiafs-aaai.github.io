@@ -6,7 +6,7 @@ sequence_id: 12
 speaker: Girish Chowdhary
 
 # Title of the event
-title: Contributed talk 5
+title: "Contributed talk 5: High Throughput Phenotyping for Essential Crop Traits"
 
 # Time of the event
 time: "14:30 - 14:45"
