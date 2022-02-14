@@ -9,5 +9,5 @@ speaker: Organizers
 title: Closing remarks
 
 # Time of the event
-time: "16:45 - 17:00"
+time: "16:55 - 17:10"
 ---
