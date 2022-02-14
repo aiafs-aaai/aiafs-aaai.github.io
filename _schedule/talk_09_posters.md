@@ -9,5 +9,5 @@ speaker: Contributed speakers
 title: Lunch break + posters
 
 # Time of the event
-time: "12:00 - 13:30"
+time: "12:10 - 13:40"
 ---
