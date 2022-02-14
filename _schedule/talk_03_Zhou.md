@@ -6,7 +6,7 @@ sequence_id: 0
 speaker: Zhou Zhang
 
 # Title of the event
-title: Contributed talk 2
+title: "Contributed talk 2: Multi-source Unsupervised Domain Adaptation on Corn Yield Prediction"
 
 # Time of the event
 time: "10:15 - 10:30"
