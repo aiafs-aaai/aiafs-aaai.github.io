@@ -5,7 +5,7 @@ sequence_id: 14
 # Speaker name
 speaker: Stefano Ermon
 # Title of the event
-title: Keynote 4 (25 + 5 mins Q&A)
+title: Keynote 2 (25 + 5 mins Q&A)
 
 # Time of the event
 time: "15:00 - 15:30"
