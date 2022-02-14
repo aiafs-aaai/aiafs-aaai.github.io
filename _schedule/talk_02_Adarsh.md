@@ -6,7 +6,7 @@ sequence_id: 0
 speaker: Adarsh Krishnamurthy
 
 # Title of the event
-title: Contributed talk 1: Deep implicit surface reconstruction of 3D plant geometry from point cloud
+title: "Contributed talk 1: Deep implicit surface reconstruction of 3D plant geometry from point cloud"
 
 # Time of the event
 time: "10:00 - 10:15"
