@@ -6,7 +6,7 @@ sequence_id: 0
 title: "TIML: Task-Informed Meta-Learning for crop type mapping (Oral)"
 
 # Paper authors
-authors: Yuchi Ma, Zhou Zhang
+authors: Gabriel Tseng, Hannah Kerner, David Rolnick
 
 # Author affiliations
 # affil: TBD
