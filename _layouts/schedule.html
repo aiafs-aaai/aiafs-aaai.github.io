@@ -31,12 +31,22 @@ layout: default
 		        <td align="center">
 		        	<div class="col-xs-12">
 			        	<b>{{ scheduleitem.title }}</b>
+					{% if scheduleitem.subtitle1 %}
 					<ul>
-					<li> <b>{{ scheduleitem.subtitle1 }}</b> </li>
-					<li> <b>{{ scheduleitem.subtitle2 }}</b> </li>
-					<li> <b>{{ scheduleitem.subtitle3 }}</b> </li>
-					<li> <b>{{ scheduleitem.subtitle4 }}</b> </li>
+					{% if scheduleitem.subtitle1 %}
+						<li> <b>{{ scheduleitem.subtitle1 }}</b> </li>
+					{% endif %}
+					{% if scheduleitem.subtitle2 %}
+						<li> <b>{{ scheduleitem.subtitle2 }}</b> </li>
+					{% endif %}
+					{% if scheduleitem.subtitle3 %}
+						<li> <b>{{ scheduleitem.subtitle3 }}</b> </li>
+					{% endif %}
+					{% if scheduleitem.subtitle4 %}
+						<li> <b>{{ scheduleitem.subtitle4 }}</b> </li>
+					{% endif %}
 					</ul>
+					{% endif %}
 		        	</div>
 		        </td>
 		        <td>
