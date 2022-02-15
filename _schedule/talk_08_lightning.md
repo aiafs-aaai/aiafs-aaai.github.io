@@ -6,12 +6,15 @@ sequence_id: 9
 speaker: Contributed speakers
 
 # Title of the event
-title: "Lightning Talks 1 (5 mins*6 + 10 mins Q&A), Paper IDS: [21,22,28,13,14,29]"
+title: "Lightning Talks 1 (5 mins*6 + 10 mins Q&A)"
 
-subtitle1: "First Talk Title"
-subtitle2: "First Talk Title"
-subtitle3: "First Talk Title"
-subtitle4: "First Talk Title"
+subtitle1: "Channel Randomisation with Domain Control for Effective Representation Learning of Visual Anomalies in Strawberries"
+subtitle2: "GrowSpace: Learning How to Shape Plants"
+subtitle3: "Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants"
+subtitle4: "Privacy-Preserving Deep Models for Plant Stress Phenotyping"
+subtitle5: "CLAWS: Contrastive Learning with hard Attention and Weak Supervision"
+subtitle6: "Towards Autonomous Berry Harvesting using Visual Servoing of Soft Continuum Arm"
+
 
 
 # Time of the event
