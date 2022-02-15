@@ -6,7 +6,15 @@ sequence_id: 18
 speaker: Contributed speakers
 
 # Title of the event
-title: "Lightning Talks 2 (5 mins*6 + 10 mins Q&A) Paper IDS: [16,18,29,07,10,02]"
+title: "Lightning Talks 2 (5 mins*6 + 10 mins Q&A)"
+
+subtitle1: "A Diverse and Interpretable Benchmark for Viti- and Vini-cultural Visual Understanding"
+subtitle2: "Fully Printable Low-Cost Dexterous Soft Robotic Manipulators for Agriculture"
+subtitle3: "SoilMoistureMapper: a GNSS-R approach for soil moisture retrieval on UAV"
+subtitle4: "Machine-learning assisted determination of best acquisition protocols in variety testing"
+subtitle5: "Data-Driven Estimation of Actual Evapotranspiration to Support Irrigation Management"
+subtitle6: "Towards Autonomous Berry Harvesting using Visual Servoing of Soft Continuum Arm"
+
 
 # Time of the event
 time: "16:15 - 16:55"
