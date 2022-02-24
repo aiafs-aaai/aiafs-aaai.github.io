@@ -12,5 +12,19 @@ affil_link: https://ag.purdue.edu/agry/directory/Pages/melbac.aspx
 img: Crawford_M.jpg
 ---
 <!-- Whatever you write below will show up as the speaker's bio -->
-Melba M. Crawford (Life Fellow, IEEE) received the B.S. and M.S. degrees in civil engineering from the University of Illinois at Urbana-Champaign, Champaign, IL, USA, in 1970 and 1973, respectively, and the Ph.D. degree in systems engineering from The Ohio State University, Columbus, OH, USA, in 1981.
-She is the Nancy Uridil and Francis Bossu Professor of civil engineering with the Department of Agronomy, the School of Civil Engineering, and the School of Electrical and Computer Engineering, Purdue University, West Lafayette, IN, USA. She is also co-leading the joint initiatives between the Purdue Colleges of Agriculture and Engineering in the development of advanced sensing technologies, data acquisition and analysis, and predictive modeling for plant breeding pipelines and for forest health.Her research interests include advanced methods for image analysis, including dimensionality reduction, AL, and deep learning for classification and prediction, and applications of these methods to hyperspectral and LiDAR data.,Dr. Crawford was a member of the NASA EO-1 Science Validation Team and served on the NASA Earth System Science and Applications Advisory Committee and the Advisory Committee to the NASA Socioeconomic Applications and Data Center (SEDAC). She is the Past President of the IEEE Geoscience and Remote Sensing Society, a past IEEE GRSS Distinguished Lecturer, and the Treasurer of the IEEE Technical Activities Board.
+**Multi-modality Remote Sensing + Machine Learning in High Throughput Phenotyping of Row Crops**  
+
+High-throughput phenotyping using high spatial, spectral, and temporal resolution
+remote sensing (RS) data has become a critical part of the plant breeding chain focused on
+reducing the time and cost of the selection process for the “best” genotypes with respect to the
+trait(s) of interest. In this presentation, we investigate the potential of high resolution RGB,
+visible and near infrared (VNIR) and short-wave infrared (SWIR) hyperspectral data, as well as
+light detection and ranging (LiDAR) data acquired from UAV platforms for predicting
+characteristics of sorghum and maize. In addition to direct measurements of traditional
+phenotypes, these sensors potentially provide surrogate measurements for more complex plant
+structural characteristics and chemistry-based responses, inviting leveraging of both traditional
+and advanced capabilities in machine learning. We discuss opportunities and challenges
+associated with acquisition, processing, and analysis of multi-year data acquired at the
+Agronomy Center for Research and Education (ACRE) at Purdue University, USA. Examples
+include detection/counting, multi-modality predictive modeling of more complex phenotypes,
+and generalization of models across space/time.
