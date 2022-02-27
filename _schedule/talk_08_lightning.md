@@ -13,7 +13,7 @@ subtitle2: "GrowSpace: Learning How to Shape Plants"
 subtitle3: "Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants"
 subtitle4: "Privacy-Preserving Deep Models for Plant Stress Phenotyping"
 subtitle5: "CLAWS: Contrastive Learning with hard Attention and Weak Supervision"
-subtitle6: "Towards Autonomous Berry Harvesting using Visual Servoing of Soft Continuum Arm"
+subtitle6: "Simultaneously Predicting Multiple Plant Traits from Multiple Sensors using Deformable CNN Regression"
 
 
 
