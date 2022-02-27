@@ -8,7 +8,7 @@ layout: home
 ---
 > ### News and Announcements
 > 
-> 1. "The program is taking place in the Virtual Venue powered by gather.town on Feb 28 from 9:00 am to 5:00 pm PST"   
+> 1. The program is taking place in the Virtual Venue powered by gather.town on Feb 28 from 9:00 am to 5:00 pm PST  
 > 2. To access the venue, click [here](https://link.virtualchair.net/aaai-22/Red2) and press ‘x’ on your keyboard to join the Zoom Meeting
  
 ![](assets/img/Danny_robots1.png)
