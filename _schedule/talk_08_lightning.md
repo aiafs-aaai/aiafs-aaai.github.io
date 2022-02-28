@@ -12,7 +12,7 @@ subtitle1: "Channel Randomisation with Domain Control for Effective Representati
 subtitle2: "GrowSpace: Learning How to Shape Plants"
 subtitle3: "Toward Semantic Scene Understanding for Fine-Grained 3D Modeling of Plants"
 subtitle4: "Privacy-Preserving Deep Models for Plant Stress Phenotyping"
-subtitle5: "CLAWS: Contrastive Learning with hard Attention and Weak Supervision"
+subtitle5: ""
 subtitle6: "Simultaneously Predicting Multiple Plant Traits from Multiple Sensors using Deformable CNN Regression"
 
 
