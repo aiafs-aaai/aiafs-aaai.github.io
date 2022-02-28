@@ -3,7 +3,7 @@
 sequence_id: 11
 
 # Speaker name
-speaker: Gaurav Sukhmate
+speaker: Gaurav Sukhatme
 
 # Title of the event
 title: Plenary 2 (40 + 10 mins Q&A)
