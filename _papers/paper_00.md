@@ -12,7 +12,7 @@ authors: Yuchi Ma, Zhou Zhang
 # affil: TBD
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
-pdf: assets/pdf/papers/multi_source_unsupervised_doma.pdf
+pdf: multi_source_unsupervised_doma.pdf
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
 img: 1
