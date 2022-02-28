@@ -3,7 +3,7 @@
 sequence_id: 7
 
 # Speaker name
-speaker: Issei Harada
+speaker: Kevin Fauvel
 
 # Title of the event
 title: "Contributed talk 3: XPM: An Explainable-by-Design Pattern-Based Estrus Detection Approach to Improve Resource Use in Dairy Farms"
