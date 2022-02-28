@@ -12,7 +12,7 @@ authors: Anjana Deva Prasad, Anushrut Jignasu, Zaki Jubery, Soumik Sarkar, Baska
 # affil: TBD
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
-pdf: TBD
+pdf: deep_implicit_surface_reconstr.pdf
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
 img: 2
