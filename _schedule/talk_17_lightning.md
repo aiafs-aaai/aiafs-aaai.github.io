@@ -13,7 +13,7 @@ subtitle2: "Fully Printable Low-Cost Dexterous Soft Robotic Manipulators for Agr
 subtitle3: "SoilMoistureMapper: a GNSS-R approach for soil moisture retrieval on UAV"
 subtitle4: "Machine-learning assisted determination of best acquisition protocols in variety testing"
 subtitle5: "Data-Driven Estimation of Actual Evapotranspiration to Support Irrigation Management"
-subtitle6: "Towards Autonomous Berry Harvesting using Visual Servoing of Soft Continuum Arm"
+subtitle6: "CLAWS: Contrastive Learning with hard Attention and Weak Supervision"
 
 
 # Time of the event
