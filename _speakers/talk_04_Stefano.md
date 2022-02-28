@@ -17,4 +17,5 @@ img: Stefano.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 **Towards self-supervised learning for geospatial data**  
+
 Recent technological developments are creating new data streams that contain a wealth of information relevant to sustainable development goals. Modern AI techniques have the potential to yield accurate, inexpensive, and highly scalable models to inform research and policy. A key challenge, however, is the lack of large quantities of labeled data that often characterize successful machine learning applications. In this talk, I will present new approaches for learning useful spatio-temporal models in contexts where labeled training data is scarce or not available at all. I will show applications to monitor agricultural productivity and landcover changes.
