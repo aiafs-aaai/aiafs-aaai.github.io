@@ -1,20 +1,20 @@
 ---
 # Name of the speaker
-name: Melba Crawford 
+# name: Melba Crawford 
 
 # Primary affiliation of the speaker
-affil: Purdue University
+# affil: Purdue University
 
 # Link to the speaker's primary affiliation
-affil_link: https://ag.purdue.edu/agry/directory/Pages/melbac.aspx
+# affil_link: https://ag.purdue.edu/agry/directory/Pages/melbac.aspx
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: Crawford_M.jpg
+# img: Crawford_M.jpg
 ---
 <!-- Whatever you write below will show up as the speaker's bio -->
-**Multi-modality Remote Sensing + Machine Learning in High Throughput Phenotyping of Row Crops**  
+<!-- **Multi-modality Remote Sensing + Machine Learning in High Throughput Phenotyping of Row Crops**   -->
 
-High-throughput phenotyping using high spatial, spectral, and temporal resolution
+<!-- High-throughput phenotyping using high spatial, spectral, and temporal resolution
 remote sensing (RS) data has become a critical part of the plant breeding chain focused on
 reducing the time and cost of the selection process for the “best” genotypes with respect to the
 trait(s) of interest. In this presentation, we investigate the potential of high resolution RGB,
@@ -28,3 +28,4 @@ associated with acquisition, processing, and analysis of multi-year data acquire
 Agronomy Center for Research and Education (ACRE) at Purdue University, USA. Examples
 include detection/counting, multi-modality predictive modeling of more complex phenotypes,
 and generalization of models across space/time.
+ -->
