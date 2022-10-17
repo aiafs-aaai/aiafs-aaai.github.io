@@ -25,9 +25,9 @@ Specific topics of interest for the workshop include (but are not limited to) fo
 The workshop will be a one day meeting comprising invited talks from researchers in the field, spotlight lightning talks and a poster session where contributing paper presenters can discuss their work. Attendance is open to all registered participants.
 
 ## Submissions
-Submitted technical papers can be up to 4 pages long (excluding references and appendices). Position papers are welcome. All papers must be submitted in PDF format using the [AAAI-22 author kit](https://aaai.org/Conferences/AAAI-22/submission-guidelines/). Papers will be peer-reviewed and selected for spotlight and/or poster presentation. The submissions are in single blind format (non-anonymous)   
+Submitted technical papers can be up to 4 pages long (excluding references and appendices). Position papers are welcome. All papers must be submitted in PDF format using the [AAAI-23 author kit](https://aaai.org/Conferences/AAAI-23/submission-guidelines/). Papers will be peer-reviewed and selected for spotlight and/or poster presentation. The submissions are in single blind format (non-anonymous)   
 
-Submissions are due by: **November 19, 2021, AoE **
+Submissions are due by: **November 4, 2022, AoE **
 
 ## Submission website
-Submissions can be done [here](https://openreview.net/group?id=AAAI.org/2022/Workshop/AIAFS).
+Submissions can be done [here]().
