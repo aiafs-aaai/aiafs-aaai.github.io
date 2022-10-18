@@ -6,7 +6,7 @@ name: Baskar Ganapathysubramanian
 webpage: https://www.me.iastate.edu/bglab/
 
 # Primary affiliation
-affil: Iowa State University
+affil: Iowa State University (AIIRA)
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: baskar.jpg
