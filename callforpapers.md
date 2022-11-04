@@ -27,7 +27,7 @@ The workshop will be a one day meeting comprising invited talks from researchers
 ## Submissions
 Submitted technical papers can be up to 4 pages long (excluding references and appendices). Position papers are welcome. All papers must be submitted in PDF format using the [AAAI-23 author kit](https://aaai.org/Conferences/AAAI-23/submission-guidelines/). Papers will be peer-reviewed and selected for spotlight and/or poster presentation. The submissions are in single blind format (non-anonymous)   
 
-Submissions are due by: **November 4, 2022, AoE **
+Submissions are due by: ~~November 4, 2022, AoE~~ November 11, 2022
 
 ## Submission website
 Submissions can be done [here](https://openreview.net/group?id=AAAI.org/2023/Workshop/AIAFS).
