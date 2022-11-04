@@ -7,7 +7,7 @@ permalink: /contactus/
 
 1. Will there be official proceedings for accepted papers?
 
-	We will invite the top papers to submit an extended version to a special issue in Plant Phenomics, A Science Partner Journal in 2022.
+	We will invite the top papers to submit an extended version to a special issue in Plant Phenomics, A Science Partner Journal in 2023
 
 2. Do paper submissions need to be anonymized?
 
@@ -19,7 +19,7 @@ permalink: /contactus/
 
 4. What is the exact deadline for submitting papers?
 
-	The deadline is **November 19 2021, AoE**
+	The deadline is **November 11 2022, AoE**
 
 5. Can I submit papers that is accepted in AAAI main conference or under review elsewhere?
 
