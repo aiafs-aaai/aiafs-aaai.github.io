@@ -1,0 +1,24 @@
+sequence_id,time,title
+00,8:30 AM – 8:40 AM,Opening Remarks
+01,8:40 AM – 9:10 AM,Invited Talk 1 (25 mins + 5 mins QA)
+02,9:10 AM – 9:25 AM,Contributed Talk 1 (13 mins + 2 mins QA)
+03,9:25 AM – 9:40 AM,Contributed Talk 2 (13 mins + 2 mins QA)
+04,9:40 AM – 9:55 AM,Contributed Talk 3 (13 mins + 2 mins QA)
+05,9:55 AM – 10:10 AM,Contributed Talk 4 (13 mins + 2 mins QA)
+06,10:10 AM – 10:25 AM,Contributed Talk 5 (13 mins + 2 mins QA)
+07,10:30 AM – 11:00 AM,Coffee Break (+ posters)
+08,11:00 AM – 11:15 AM,Contributed Talk 6 (13 mins + 2 mins QA)
+09,11:15 AM – 11:30 AM,Contributed Talk 7 (13 mins + 2 mins QA)
+10,11:30 AM – 12:30 PM,Lightning Talks (7 - 5 + 3 QA)
+11,12:30 PM – 2:00 PM,Lunch Break (+ posters)
+12,2:00 PM – 2:30 PM,Invited Talk 2
+13,2:30 PM – 2:45 PM,Contributed Talk 8 (13 mins + 2 mins QA)
+14,2:45 PM – 3:00 PM,Contributed Talk 9 (13 mins + 2 mins QA)
+15,3:00 PM – 3:15 PM,Contributed Talk 10 (13 mins + 2 mins QA)
+16,3:15 PM – 3:30 PM,Contributed Talk 11 (13 mins + 2 mins QA)
+17,3:30 PM – 4:00 PM,Coffee Break (+ posters)
+18,4:00 PM – 4:15 PM,Contributed Talk 12 (13 mins + 2 mins QA)
+19,4:15 PM – 4:30 PM,Contributed Talk 13 (13 mins + 2 mins QA)
+20,4:30 PM – 5:30 PM,Lightning Talks (7 - 5+3 mins QA)
+21,5:30 PM – 5:35 PM,Closing Remarks
+22,5:35 PM – 6:00 PM,Post-workshop networking (+ posters)

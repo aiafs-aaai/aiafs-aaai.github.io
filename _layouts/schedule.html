@@ -9,88 +9,37 @@ layout: default
 <!--     <h4> Feb 28, 2022 (Virtual). All times below are in PST</h4> -->
   </header>
   <div class = "post-content">
+
 	  <table>
-	  	{% for scheduleitem in site.schedules %}
-		    <tr>
-		        <td>
-		            <p align="center">
-		                {{ scheduleitem.time }}
-		            </p>
-		        </td>
-<!-- 		        <td>
-		            <div class="col-xs-12">
-		                <p align="center">
-		                	{% if scheduleitem.img %}
-		                    	<img class="people-pic" src="{{ scheduleitem.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% else %}
-		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% endif %}
-		                </p>
-		            </div>
-		        </td> -->
-		        <td align="center">
-		        	<div class="col-xs-12">
-			        	<b>{{ scheduleitem.title }}</b>
-					{% if scheduleitem.subtitle1 %}
-					<ul style="text-align:left">
-					{% if scheduleitem.subtitle1 %}
-						<li> <b>{{ scheduleitem.subtitle1 }}</b> </li>
-					{% endif %}
-					{% if scheduleitem.subtitle2 %}
-						<li> <b>{{ scheduleitem.subtitle2 }}</b> </li>
-					{% endif %}
-					{% if scheduleitem.subtitle3 %}
-						<li> <b>{{ scheduleitem.subtitle3 }}</b> </li>
-					{% endif %}
-					{% if scheduleitem.subtitle4 %}
-						<li> <b>{{ scheduleitem.subtitle4 }}</b> </li>
-					{% endif %}
-					{% if scheduleitem.subtitle5 %}
-						<li> <b>{{ scheduleitem.subtitle5 }}</b> </li>
-					{% endif %}
-					{% if scheduleitem.subtitle6 %}
-						<li> <b>{{ scheduleitem.subtitle6 }}</b> </li>
-					{% endif %}
-					{% if scheduleitem.subtitle7 %}
-						<li> <b>{{ scheduleitem.subtitle7 }}</b> </li>
-					{% endif %}
-					{% if scheduleitem.subtitle8 %}
-						<li> <b>{{ scheduleitem.subtitle8 }}</b> </li>
-					{% endif %}
-					{% if scheduleitem.subtitle9 %}
-						<li> <b>{{ scheduleitem.subtitle9 }}</b> </li>
-					{% endif %}
-					</ul>
-					{% endif %}
-		        	</div>
-		        </td>
-		        <td>
-		            <div class="people-name text-center">
-		            	<!-- scheduleitem name (link to webpage if provided) -->
-		            	{% if scheduleitem.webpage %}
-		            		<a href="{{ scheduleitem.webpage }}" target="_blank">{{ scheduleitem.speaker }}</a>
-		            	{% else %}
-		            		{{ scheduleitem.speaker }}
-		            	{% endif %}
-		                <br>
-		                <!-- scheduleitem affiliation (if provided) -->
-		                {% if scheduleitem.affil_link %}
-		                	<a href="{{ scheduleitem.affil_link }}" target="_blank">{{ scheduleitem.affil }}</a>
-		                {% else %}
-		                	{{ scheduleitem.affil }}
-		                {% endif %}
-		                <!-- Additional scheduleitem affiliation (if provided) -->
-		                {% if scheduleitem.affil2_link %}
-		                	<br>
-		                	<a href="{{ scheduleitem.affil2_link }}" target="_blank">{{ scheduleitem.affil2 }}</a>
-		                {% elsif scheduleitem.affil2 %}
-		                	<br>
-		                	{{ scheduleitem.affil2 }}
-		                {% endif %}
-		            </div>
-		        </td>
-		    </tr>
-	    {% endfor %}
+		  <tr>
+			  <td>
+				  <div class="people-name text-center">
+					  <b>Time</b>
+				  </div>
+			  </td>
+			  <td>
+				  <div class="people-name text-center">
+					  <b>Event</b>
+				  </div>
+			  </td>
+		  </tr>
+		  {% assign papers_list = site.data.schedule | sort: "sequence_id" %}
+			{% for scheduleitem in papers_list %}
+				<tr>
+					<td>
+						<p align="center">
+							{{ scheduleitem.time }}
+						</p>
+					</td>
+					<td align="center">
+						<div class="col-xs-12">
+							<b>{{ scheduleitem.title }}</b>
+
+						</ul>
+						</div>
+					</td>
+				</tr>
+			{% endfor %}
 	  </table>
   </div>
 
