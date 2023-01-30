@@ -10,47 +10,56 @@ layout: default
   <h4> The accepted papers from AIAFS 2022 Workshop are available in <a href="https://openreview.net/search?term=AIAFS&group=all&content=all&source=forum"> openreview.</a> </h4>
   <div class = "post-content">
 	  <table>
-	  	{% for paper in site.papers %}
-		    <tr>
-		        <td>
-		            <div class="people-name text-center">
-		                <p align="center">
-		                	{% if paper.img %}
-					<b>{{ paper.img }}</b>
-<!-- 		                    	<img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank"> -->
-		                    {% else %}
-		                    	<img class="paper-pic" src="{{ 'default.svg' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% endif %}
-		                </p>
-		            </div>
-		        </td>
-		        <td align="center">
-		        	<div class="people-name text-center">
-			        	<b>{{ paper.title }}</b>
-		        	</div>
-		        </td>
-		        <td>
-		            <div class="people-name text-center">
-		            	<!-- Author list -->
-		            	{% if paper.authors %}
-		            		{{ paper.authors }}
-		            	{% endif %}
-		                <!-- Author affiliations (if provided) -->
-		                {% if paper.affil %}
-		                	<br>
-		                	{{ paper.affil }}
-		                {% endif %}
-		                <!-- Link to PDF (if provided) -->
-		                {% if paper.pdf %}
-		                	<br>
-					<a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>
-<!-- 					<a href="/assets/pdf/papers/{{paper.paper_id}}.pdf" target="_blank">PDF</a> -->
+		  <tr>
+			  <td>
+				  <div class="people-name text-center">
+					  <b>Paper ID</b>
+				  </div>
+			  </td>
+			  <td align="center">
+				  <div class="people-name text-center">
+					  <b>Title</b>
+				  </div>
+			  </td>
+			  <td>
+				  <div class="people-name text-center">
+					  <b> Authors </b>
+				  </div>
+			  </td>
+		  </tr>
 
-		                {% endif %}
-		            </div>
-		        </td>
-		    </tr>
-	    {% endfor %}
+		  {% assign papers_list = site.data.accepted_papers | sort: "paper_id" %}
+
+		  {% for paper in papers_list %}
+		  <tr>
+			  <td>
+				  <div class="people-name text-center">
+					  {{paper.paper_id}}
+				  </div>
+			  </td>
+			  <td align="center">
+				  <div class="people-name text-center">
+					  <b>{{ paper.title }}</b>
+				  </div>
+			  </td>
+			  <td>
+				  <div class="people-name text-center">
+					  <!-- Author list -->
+					  {% if paper.authors %}
+					  	{{ paper.authors }}
+					  {% endif %}
+					  <!-- Author affiliations (if provided) -->
+					  {% if paper.affil %}
+						  <br>
+						  {{ paper.affil }}
+					  {% endif %}
+					  <br>
+					  <a href="https://openreview.net/pdf?id={{ paper.forum }}" target="_blank">PDF</a>
+				  </div>
+			  </td>
+		  </tr>
+		  {% endfor %}
+
 	  </table>
   </div>
 
