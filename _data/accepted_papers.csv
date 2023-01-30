@@ -1,14 +1,14 @@
 paper_id,title,authors,forum
-0,Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft Fruits,"Taeyeong Choi, Xin Liu",WGBHIs3ugm
-1,Data driven ensemble learning for soybean yield prediction,"Souradeep Chattopadhyay, Matthew Carroll, Baskar Ganapathysubramanian, Asheesh K Singh, Soumik Sarkar",vrXKC3eYMU
-2,Towards Autonomous Apple Fruitlet Sizing with Next Best View Planning,"Harry Freeman, George Kantor",DcHdI9-gK3
-3,Zero-Shot Insect Detection via Weak Language Supervision,"Benjamin Feuer, Ameya Joshi, Minsu Cho, Kewal Jani, Shivani Chiranjeevi, ZI Kang Deng, Aditya Balu, Asheesh K Singh, Soumik Sarkar, Nirav Merchant, Arti Singh, Baskar Ganapathysubramanian, Chinmay Hegde",VPDKe672pv
-4,LiT Tuned Models for Efficient Species Detection,"Andre Nakkab, Benjamin Feuer, Chinmay Hegde",sZlKXXWJlA
-5,Transfer Learning with Pairwise Comparison for Fine-Granular Fruit Shelf-Life Prediction,"Jayita Dutta, Manasi Patwardhan, Parijat Deshpande, Beena Rai",d14vdxFbsSh
-6,DeepOryza: A Knowledge guided machine learning model for rice growth simulation,"Jingye Han, Liangsheng Shi, Christos Pylianidis, Qi Yang, Ioannis N. Athanasiadis",L9ankU4Ge-v
-7,A New Dataset and Comparative Study for Aphid Cluster Detection,"Tianxiao Zhang, Kaidong Li, Xiangyu Chen, Cuncong Zhong, Bo Luo, Ivan Grijalva Teran, Brian McCornack, Daniel Flippo, Ajay Sharda, Guanghui Wang",BuQ50s9ces
-8,Tomato-plant Sunlit-leaf Segmentation Using Convolutional Neural Networks: Supporting Crop Water Stress Index Measurements,"Jacob Hampton, Aris Athanasios Panagopoulos, Minas Pantelidakis, Eric Kor, Konstantinos Mykoniatis, Orestis P. Panagopoulos, Shawn Ashkan",_GJvOvRvjiC
-9,Learning Crop Management by Reinforcement: gym-DSSAT,"romain gautron, Emilio J. Padrón, Philippe Preux, julien bigot, Odalric-Ambrym Maillard, Gerrit Hoogenboom, julien teigny",4vNeWNQc3U
+00,Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft Fruits,"Taeyeong Choi, Xin Liu",WGBHIs3ugm
+01,Data driven ensemble learning for soybean yield prediction,"Souradeep Chattopadhyay, Matthew Carroll, Baskar Ganapathysubramanian, Asheesh K Singh, Soumik Sarkar",vrXKC3eYMU
+02,Towards Autonomous Apple Fruitlet Sizing with Next Best View Planning,"Harry Freeman, George Kantor",DcHdI9-gK3
+03,Zero-Shot Insect Detection via Weak Language Supervision,"Benjamin Feuer, Ameya Joshi, Minsu Cho, Kewal Jani, Shivani Chiranjeevi, ZI Kang Deng, Aditya Balu, Asheesh K Singh, Soumik Sarkar, Nirav Merchant, Arti Singh, Baskar Ganapathysubramanian, Chinmay Hegde",VPDKe672pv
+04,LiT Tuned Models for Efficient Species Detection,"Andre Nakkab, Benjamin Feuer, Chinmay Hegde",sZlKXXWJlA
+05,Transfer Learning with Pairwise Comparison for Fine-Granular Fruit Shelf-Life Prediction,"Jayita Dutta, Manasi Patwardhan, Parijat Deshpande, Beena Rai",d14vdxFbsSh
+06,DeepOryza: A Knowledge guided machine learning model for rice growth simulation,"Jingye Han, Liangsheng Shi, Christos Pylianidis, Qi Yang, Ioannis N. Athanasiadis",L9ankU4Ge-v
+07,A New Dataset and Comparative Study for Aphid Cluster Detection,"Tianxiao Zhang, Kaidong Li, Xiangyu Chen, Cuncong Zhong, Bo Luo, Ivan Grijalva Teran, Brian McCornack, Daniel Flippo, Ajay Sharda, Guanghui Wang",BuQ50s9ces
+08,Tomato-plant Sunlit-leaf Segmentation Using Convolutional Neural Networks: Supporting Crop Water Stress Index Measurements,"Jacob Hampton, Aris Athanasios Panagopoulos, Minas Pantelidakis, Eric Kor, Konstantinos Mykoniatis, Orestis P. Panagopoulos, Shawn Ashkan",_GJvOvRvjiC
+09,Learning Crop Management by Reinforcement: gym-DSSAT,"romain gautron, Emilio J. Padrón, Philippe Preux, julien bigot, Odalric-Ambrym Maillard, Gerrit Hoogenboom, julien teigny",4vNeWNQc3U
 10,Farm-gym: A modular reinforcement learning platform for stochastic agronomic games,"Odalric-Ambrym Maillard, Timothée Mathieu, Debabrota Basu",Ev4NOEeTYL
 11,Quality Control in Weather Monitoring with Dynamic Linear Models,"Joel Janek Dabrowski, Ashfaqur Rahman, Ming Li, Quanxi Shao, Shuvo Bakar, Andrea Powell, Brent Henderson",OP7Mq-z9SZ-
 12,Plant Geometry Reconstruction From Field Data Using Neural Radiance Fields,"Anushrut Jignasu, Ethan Herron, Talukder Zaki Jubery, James Afful, Aditya Balu, Baskar Ganapathysubramanian, Soumik Sarkar, Adarsh Krishnamurthy",TvKKqWn_-6
