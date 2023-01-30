@@ -1,27 +1,27 @@
-paper_id,title,authors,forum
-00,Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft Fruits,"Taeyeong Choi, Xin Liu",WGBHIs3ugm
-01,Data driven ensemble learning for soybean yield prediction,"Souradeep Chattopadhyay, Matthew Carroll, Baskar Ganapathysubramanian, Asheesh K Singh, Soumik Sarkar",vrXKC3eYMU
-02,Towards Autonomous Apple Fruitlet Sizing with Next Best View Planning,"Harry Freeman, George Kantor",DcHdI9-gK3
-03,Zero-Shot Insect Detection via Weak Language Supervision,"Benjamin Feuer, Ameya Joshi, Minsu Cho, Kewal Jani, Shivani Chiranjeevi, ZI Kang Deng, Aditya Balu, Asheesh K Singh, Soumik Sarkar, Nirav Merchant, Arti Singh, Baskar Ganapathysubramanian, Chinmay Hegde",VPDKe672pv
-04,LiT Tuned Models for Efficient Species Detection,"Andre Nakkab, Benjamin Feuer, Chinmay Hegde",sZlKXXWJlA
-05,Transfer Learning with Pairwise Comparison for Fine-Granular Fruit Shelf-Life Prediction,"Jayita Dutta, Manasi Patwardhan, Parijat Deshpande, Beena Rai",d14vdxFbsSh
-06,DeepOryza: A Knowledge guided machine learning model for rice growth simulation,"Jingye Han, Liangsheng Shi, Christos Pylianidis, Qi Yang, Ioannis N. Athanasiadis",L9ankU4Ge-v
-07,A New Dataset and Comparative Study for Aphid Cluster Detection,"Tianxiao Zhang, Kaidong Li, Xiangyu Chen, Cuncong Zhong, Bo Luo, Ivan Grijalva Teran, Brian McCornack, Daniel Flippo, Ajay Sharda, Guanghui Wang",BuQ50s9ces
-08,Tomato-plant Sunlit-leaf Segmentation Using Convolutional Neural Networks: Supporting Crop Water Stress Index Measurements,"Jacob Hampton, Aris Athanasios Panagopoulos, Minas Pantelidakis, Eric Kor, Konstantinos Mykoniatis, Orestis P. Panagopoulos, Shawn Ashkan",_GJvOvRvjiC
-09,Learning Crop Management by Reinforcement: gym-DSSAT,"romain gautron, Emilio J. Padrón, Philippe Preux, julien bigot, Odalric-Ambrym Maillard, Gerrit Hoogenboom, julien teigny",4vNeWNQc3U
-10,Farm-gym: A modular reinforcement learning platform for stochastic agronomic games,"Odalric-Ambrym Maillard, Timothée Mathieu, Debabrota Basu",Ev4NOEeTYL
-11,Quality Control in Weather Monitoring with Dynamic Linear Models,"Joel Janek Dabrowski, Ashfaqur Rahman, Ming Li, Quanxi Shao, Shuvo Bakar, Andrea Powell, Brent Henderson",OP7Mq-z9SZ-
-12,Plant Geometry Reconstruction From Field Data Using Neural Radiance Fields,"Anushrut Jignasu, Ethan Herron, Talukder Zaki Jubery, James Afful, Aditya Balu, Baskar Ganapathysubramanian, Soumik Sarkar, Adarsh Krishnamurthy",TvKKqWn_-6
-13,Optimized Class-specific Data Augmentation for Plant Stress Classification,"Nasla Saleem, Baskar Ganapathysubramanian, Aditya Balu, Talukder Zaki Jubery, Soumik Sarkar, Arti Singh, Asheesh K Singh",kPM87uCwFq
-14,Persistence Homology to Study Cold Hardiness of Grape Cultivars,"Sejal Welankar, Paola Gabriela Pesantez, Bala Krishnamoorthy, Ananth Kalyanaraman",PPoe26Ys-j
-15,Out-of-distribution algorithms for robust insect classification,"Mojdeh Saadati, Shivani Chiranjeevi, Aditya Balu, Talukder Zaki Jubery, Asheesh K Singh, Soumik Sarkar, Arti Singh, Baskar Ganapathysubramanian",39Eh1ifhsj
-16,Intelligent Drought Stress Monitoring on Spatio-Spectral-Temporal Drone based Crop Imagery using Deep Networks,"Tejasri N, Rajalakshmi Pachamuthu, Balaji Naik, Uday B Desai",6U08SGo64_
-17,2-D HISTOGRAM BASED ON RELATIVE ENTROPY THRESHOLDING FOR CROP SEGMENTATION USING UAV-BASED IMAGES,"Gattu Priyanka, P Rajalakshmi, Jana Kholova",yFOhLRYRj_
-18,Constrained Reinforcement Learning for Autonomous Farming: Challenges and Opportunities,"Yongshuai Liu, Taeyeong Choi, Xin Liu",BVkzFyB-dv
-19,Multi Task Learning for Budbreak Prediction,"Aseem Saxena, Paola Gabriela Pesantez, Rohan Ballapragada, Markus Keller, Alan Fern",kvGm8DJ-cM
-20,Univariate and multivariate time-series methods to forecast dairy income,"Vahid Naghashi, Gabriel Machado Dallago, Abdoulaye Banire Diallo, Mounir Boukadoum",0sGHJV7tRM
-21,A Reflection on AI Model Selection for Digital Agriculture Image Datasets,"Seth Ockerman, John Wu, Christopher Stewart, Zitchen Zhang",vBSUoUuAYOA
-22,Semi-Automated Construction of Food Composition Knowledge Base,"Jason Youn, Fangzhou Li, Ilias Tagkopoulos",4I7WLDmseD
-23,Soft Robotic End-Effectors in the Wild: A Case Study of a Soft Manipulator for Green Bell Pepper Harvesting,"Dominik Bauer, Cornelia Bauer, Nancy Pollard",SmiDAiT6Goh
-24,Dual phase convolutional neural network based system aimed at small rice grain dataset for disease identification,"Tashin Ahmed, Chowdhury Rafeed Rahman, Md. Faysal Mahmud Abid",EXV_d6ECUTa
-25,Semi-Supervised Object Detection for Agriculture,"Gabriel Tseng, Krisztina Sinkovics, Tom Watsham, David Rolnick, Thomas C. Walters",AR4SAOzcuz
+,paper_id,title,authors,forum
+00,0,Exploiting Unlabeled Data to Improve Detection of Visual Anomalies in Soft Fruits,"Taeyeong Choi,Xin Liu",WGBHIs3ugm
+01,1,Data driven ensemble learning for soybean yield prediction,"Souradeep Chattopadhyay,Matthew Carroll,Baskar Ganapathysubramanian,Asheesh K Singh,Soumik Sarkar",vrXKC3eYMU
+02,2,Towards Autonomous Apple Fruitlet Sizing with Next Best View Planning,"Harry Freeman,George Kantor",DcHdI9-gK3
+03,3,Zero-Shot Insect Detection via Weak Language Supervision,"Benjamin Feuer,Ameya Joshi,Minsu Cho,Kewal Jani,Shivani Chiranjeevi,ZI Kang Deng,Aditya Balu,Asheesh K Singh,Soumik Sarkar,Nirav Merchant,Arti Singh,Baskar Ganapathysubramanian,Chinmay Hegde",VPDKe672pv
+04,4,LiT Tuned Models for Efficient Species Detection,"Andre Nakkab,Benjamin Feuer,Chinmay Hegde",sZlKXXWJlA
+05,5,Transfer Learning with Pairwise Comparison for Fine-Granular Fruit Shelf-Life Prediction,"Jayita Dutta,Manasi Patwardhan,Parijat Deshpande,Beena Rai",d14vdxFbsSh
+06,6,DeepOryza: A Knowledge guided machine learning model for rice growth simulation,"Jingye Han,Liangsheng Shi,Christos Pylianidis,Qi Yang,Ioannis N. Athanasiadis",L9ankU4Ge-v
+07,7,A New Dataset and Comparative Study for Aphid Cluster Detection,"Tianxiao Zhang,Kaidong Li,Xiangyu Chen,Cuncong Zhong,Bo Luo,Ivan Grijalva Teran,Brian McCornack,Daniel Flippo,Ajay Sharda,Guanghui Wang",BuQ50s9ces
+08,8,Tomato-plant Sunlit-leaf Segmentation Using Convolutional Neural Networks: Supporting Crop Water Stress Index Measurements,"Jacob Hampton,Aris Athanasios Panagopoulos,Minas Pantelidakis,Eric Kor,Konstantinos Mykoniatis,Orestis P. Panagopoulos,Shawn Ashkan",_GJvOvRvjiC
+09,9,Learning Crop Management by Reinforcement: gym-DSSAT,"romain gautron,Emilio J. Padrón,Philippe Preux,julien bigot,Odalric-Ambrym Maillard,Gerrit Hoogenboom,julien teigny",4vNeWNQc3U
+10,10,Farm-gym: A modular reinforcement learning platform for stochastic agronomic games,"Odalric-Ambrym Maillard,Timothée Mathieu,Debabrota Basu",Ev4NOEeTYL
+11,11,Quality Control in Weather Monitoring with Dynamic Linear Models,"Joel Janek Dabrowski,Ashfaqur Rahman,Ming Li,Quanxi Shao,Shuvo Bakar,Andrea Powell,Brent Henderson",OP7Mq-z9SZ-
+12,12,Plant Geometry Reconstruction From Field Data Using Neural Radiance Fields,"Anushrut Jignasu,Ethan Herron,Talukder Zaki Jubery,James Afful,Aditya Balu,Baskar Ganapathysubramanian,Soumik Sarkar,Adarsh Krishnamurthy",TvKKqWn_-6
+13,13,Optimized Class-specific Data Augmentation for Plant Stress Classification,"Nasla Saleem,Baskar Ganapathysubramanian,Aditya Balu,Talukder Zaki Jubery,Soumik Sarkar,Arti Singh,Asheesh K Singh",kPM87uCwFq
+14,14,Persistence Homology to Study Cold Hardiness of Grape Cultivars,"Sejal Welankar,Paola Gabriela Pesantez,Bala Krishnamoorthy,Ananth Kalyanaraman",PPoe26Ys-j
+15,15,Out-of-distribution algorithms for robust insect classification,"Mojdeh Saadati,Shivani Chiranjeevi,Aditya Balu,Talukder Zaki Jubery,Asheesh K Singh,Soumik Sarkar,Arti Singh,Baskar Ganapathysubramanian",39Eh1ifhsj
+16,16,Intelligent Drought Stress Monitoring on Spatio-Spectral-Temporal Drone based Crop Imagery using Deep Networks,"Tejasri N,Rajalakshmi Pachamuthu,Balaji Naik,Uday B Desai",6U08SGo64_
+17,17,2-D HISTOGRAM BASED ON RELATIVE ENTROPY THRESHOLDING FOR CROP SEGMENTATION USING UAV-BASED IMAGES,"Gattu Priyanka,P Rajalakshmi,Jana Kholova",yFOhLRYRj_
+18,18,Constrained Reinforcement Learning for Autonomous Farming: Challenges and Opportunities,"Yongshuai Liu,Taeyeong Choi,Xin Liu",BVkzFyB-dv
+19,19,Multi Task Learning for Budbreak Prediction,"Aseem Saxena,Paola Gabriela Pesantez,Rohan Ballapragada,Markus Keller,Alan Fern",kvGm8DJ-cM
+20,20,Univariate and multivariate time-series methods to forecast dairy income,"Vahid Naghashi,Gabriel Machado Dallago,Abdoulaye Banire Diallo,Mounir Boukadoum",0sGHJV7tRM
+21,21,A Reflection on AI Model Selection for Digital Agriculture Image Datasets,"Seth Ockerman,John Wu,Christopher Stewart,Zitchen Zhang",vBSUoUuAYOA
+22,22,Semi-Automated Construction of Food Composition Knowledge Base,"Jason Youn,Fangzhou Li,Ilias Tagkopoulos",4I7WLDmseD
+23,23,Soft Robotic End-Effectors in the Wild: A Case Study of a Soft Manipulator for Green Bell Pepper Harvesting,"Dominik Bauer,Cornelia Bauer,Nancy Pollard",SmiDAiT6Goh
+24,24,Dual phase convolutional neural network based system aimed at small rice grain dataset for disease identification,"Tashin Ahmed,Chowdhury Rafeed Rahman,Md. Faysal Mahmud Abid",EXV_d6ECUTa
+25,25,Semi-Supervised Object Detection for Agriculture,"Gabriel Tseng,Krisztina Sinkovics,Tom Watsham,David Rolnick,Thomas C. Walters",AR4SAOzcuz
