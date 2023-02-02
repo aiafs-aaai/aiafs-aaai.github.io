@@ -28,7 +28,7 @@ layout: default
 			  </td>
 		  </tr>
 
-		  {% assign papers_list = site.data.accepted_papers | sort: "paper_id" %}
+		  {% assign papers_list = site.data.accepted_papers | sort: "serial_no" %}
 
 		  {% for paper in papers_list %}
 		  <tr>
