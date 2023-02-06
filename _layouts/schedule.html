@@ -38,27 +38,27 @@ layout: default
 						<div class="col-xs-12">
 							<b>{{ scheduleitem.title }}</b>
 							{% if scheduleitem.title contains "Invited" %}
-							<p> Speaker: {{ site.speakers[invited_talk_id].name }} </p>
+							<p style="text-align: left;"> Speaker: {{ site.speakers[invited_talk_id].name }} </p>
 							{% assign invited_talk_id = invited_talk_id | plus:1 %}
 							{% endif %}
 							{% if scheduleitem.title contains "Contributed" %}
-							<p> Paper: {{ site.data.contributed[contributed_talk_id].id}} - {{site.data.contributed[contributed_talk_id].title}} </p>
+							<p style="text-align: left;"> Paper: {{ site.data.contributed[contributed_talk_id].id}} - {{site.data.contributed[contributed_talk_id].title}} </p>
 							{% assign contributed_talk_id = contributed_talk_id | plus:1 %}
 							{% endif %}
 							{% if scheduleitem.title contains "Lightning" %}
-							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							<p style="text-align: left;"> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
 							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
-							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							<p style="text-align: left;"> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
 							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
-							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							<p style="text-align: left;"> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
 							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
-							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							<p style="text-align: left;"> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
 							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
-							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							<p style="text-align: left;"> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
 							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
-							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							<p style="text-align: left;"> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
 							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
-							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							<p style="text-align: left;"> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
 							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
 							{% endif %}
 						</ul>
