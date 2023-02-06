@@ -9,7 +9,7 @@ affil: Iowa State University
 affil_link: https://www.agron.iastate.edu/people/singh-arti-2/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: Arti_Singh.jpeg
+img: Arti_Singh.jpg
 ---
 <!-- Whatever you write below will show up as the speaker's bio -->
 <!-- **Multi-modality Remote Sensing + Machine Learning in High Throughput Phenotyping of Row Crops**   -->
