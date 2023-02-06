@@ -26,6 +26,7 @@ layout: default
 		  {% assign papers_list = site.data.schedule | sort: "sequence_id" %}
 		  {% assign contributed_talk_id = 0 %}
 		  {% assign invited_talk_id = 0%}
+		  {% assign lightning_talk_id = 0%}
 			{% for scheduleitem in papers_list %}
 				<tr>
 					<td>
@@ -43,6 +44,22 @@ layout: default
 							{% if scheduleitem.title contains "Contributed" %}
 							<p> Paper: {{ site.data.contributed[contributed_talk_id].id}} - {{site.data.contributed[contributed_talk_id].title}} </p>
 							{% assign contributed_talk_id = contributed_talk_id | plus:1 %}
+							{% endif %}
+							{% if scheduleitem.title contains "Lightning" %}
+							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
+							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
+							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
+							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
+							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
+							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
+							<p> Paper: {{ site.data.lightning[lightning_talk_id].id}} - {{site.data.lightning[lightning_talk_id].title}} </p>
+							{% assign lightning_talk_id = lightning_talk_id | plus:1 %}
 							{% endif %}
 						</ul>
 						</div>
