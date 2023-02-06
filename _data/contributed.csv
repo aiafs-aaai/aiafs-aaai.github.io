@@ -1,4 +1,4 @@
-﻿paper_id,title,authors
+id,title,authors
 16,DeepOryza: A Knowledge guided machine learning model for rice growth simulation,"Jingye Han, Liangsheng Shi, Christos Pylianidis, Qi Yang, Ioannis N. Athanasiadis"
 3,Quality Control in Weather Monitoring with Dynamic Linear Models,"Joel Janek Dabrowski, Ashfaqur Rahman, Ming Li, Quanxi Shao, Shuvo Bakar, Andrea Powell, Brent Henderson"
 6,Farm-gym: A modular reinforcement learning platform for stochastic agronomic games,"Odalric-Ambrym Maillard, Timothée Mathieu, Debabrota Basu"
