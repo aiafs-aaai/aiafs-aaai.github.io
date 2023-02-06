@@ -38,10 +38,12 @@ layout: default
 							<b>{{ scheduleitem.title }}</b>
 							{% if scheduleitem.title contains "Invited" %}
 							{{ site.speakers[invited_talk_id].name }}
+							{% assign invited_talk_id = invited_talk_id | plus:1 %}
 							{% endif %}
 							{% if scheduleitem.title contains "Contributed" %}
-							{{ site.data.contributed.paper_id}} - {{site.data.contributed.title}}
-							{{ site.data.contributed.presenting_author }}
+							{{ site.data.contributed[contributed_talk_id].paper_id}} - {{site.data.contributed[contributed_talk_id].title}}
+							{{ site.data.contributed[contributed_talk_id].presenting_author }}
+							{% assign contributed_talk_id = contributed_talk_id | plus:1 %}
 							{% endif %}
 						</ul>
 						</div>
