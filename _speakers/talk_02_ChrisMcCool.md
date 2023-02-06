@@ -1,17 +1,17 @@
 ---
 # Name of the speaker
-<!-- name: Ioannis Athanasiadis -->
+name: Chris McCool
 
 # Link to the speaker's webpage
-<!-- webpage: https://www.athanasiadis.info/ -->
+webpage: https://sites.google.com/site/christophersmccool/
 
 # Primary affiliation of the speaker
-<!-- affil: Wageningen University and Research -->
+affil: University of Bonn, Germany
 # Link to the speaker's primary affiliation
-<!-- affil_link: https://www.wur.nl/en/Persons/Ioannis-prof.dr.-I-Ioannis-Athanasiadis.htm -->
+affil_link: http://agrobotics.uni-bonn.de/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-<!-- img: Ioannis.jpg -->
+img: ChrisMcCool.png
 ---
 <!-- Whatever you write below will show up as the speaker's bio -->
 <!-- **Artificial Intelligence for agricultural digital twins**  -->
