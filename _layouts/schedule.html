@@ -24,6 +24,8 @@ layout: default
 			  </td>
 		  </tr>
 		  {% assign papers_list = site.data.schedule | sort: "sequence_id" %}
+		  {% assign contributed_talk_id = 0 %}
+		  {% assign invited_talk_id = 0%}
 			{% for scheduleitem in papers_list %}
 				<tr>
 					<td>
@@ -34,7 +36,13 @@ layout: default
 					<td align="center">
 						<div class="col-xs-12">
 							<b>{{ scheduleitem.title }}</b>
-
+							{% if scheduleitem.title contains "Invited" %}
+							{{ site.speakers[invited_talk_id].name }}
+							{% endif %}
+							{% if scheduleitem.title contains "Contributed" %}
+							{{ site.data.contributed.paper_id}} - {{site.data.contributed.title}}
+							{{ site.data.contributed.presenting_author }}
+							{% endif %}
 						</ul>
 						</div>
 					</td>
