@@ -36,13 +36,12 @@ layout: default
 					<td align="center">
 						<div class="col-xs-12">
 							<b>{{ scheduleitem.title }}</b>
-							{% if scheduleitem.title contains "Invited" %}
+							<p> Speaker: {% if scheduleitem.title contains "Invited" %} </p>
 							{{ site.speakers[invited_talk_id].name }}
 							{% assign invited_talk_id = invited_talk_id | plus:1 %}
 							{% endif %}
 							{% if scheduleitem.title contains "Contributed" %}
-							{{ site.data.contributed[contributed_talk_id].paper_id}} - {{site.data.contributed[contributed_talk_id].title}}
-							{{ site.data.contributed[contributed_talk_id].presenting_author }}
+							<p> Paper ID : {{ site.data.contributed[contributed_talk_id].paper_id}} - {{site.data.contributed[contributed_talk_id].title}} </p>
 							{% assign contributed_talk_id = contributed_talk_id | plus:1 %}
 							{% endif %}
 						</ul>
