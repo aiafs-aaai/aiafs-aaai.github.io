@@ -1,15 +1,15 @@
 ---
 # Name of the speaker
-# name: Melba Crawford 
+name: Arti Singh 
 
 # Primary affiliation of the speaker
-# affil: Purdue University
+affil: Iowa State University
 
 # Link to the speaker's primary affiliation
-# affil_link: https://ag.purdue.edu/agry/directory/Pages/melbac.aspx
+affil_link: https://www.agron.iastate.edu/people/singh-arti-2/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-# img: Crawford_M.jpg
+img: Arti_Singh.jpeg
 ---
 <!-- Whatever you write below will show up as the speaker's bio -->
 <!-- **Multi-modality Remote Sensing + Machine Learning in High Throughput Phenotyping of Row Crops**   -->
